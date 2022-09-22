@@ -1,8 +1,5 @@
 'use strict';
 
-const name = prompt(
-  'Hello , my name is pranav here is my first simple web application , Please enter your name to start :) '
-);
 let score = 20;
 let highScore = 0;
 
